@@ -60,20 +60,19 @@ The project uses Python and several common data analysis libraries:
 
 ## Key Findings
 
-Analysis suggests several behavioral and demographic trends
-influence coupon acceptance:
+Analysis shows that both behavior and demographics affect coupon acceptance:
 
--   Finding 1
--   Finding 2
--   Finding 3
+-   Visit frequency is one of the strongest predictors of acceptance. Across all coupon types, users who already engage in the behavior (e.g., dining out, going to bars, visiting coffee shops) are significantly more likely to accept coupons.
+-   Convenience matters less than expected for carry-out. Distance and direction did not have as large an impact on take-away coupon acceptance, suggesting users are more flexible for this category.
+-   Coupons can attract new customers in certain categories. For carry-out (and sometimes coffee), less frequent users can show high responsiveness, indicating coupons can help drive new or occasional behavior.
+-   Some high-performing segments are not reliable. A few segments show very high acceptance rates but are based on small sample sizes, so those results should be interpreted with caution.
 
 ## Future Work
 
 Possible next steps include:
 
--   Building a predictive model for coupon acceptance
--   Next step 2
--   Next step 3
+-   Validate findings with additional data. Confirm that key patterns, such as the impact of visit frequency, hold across larger samples of the data.
+-   Building a predictive model for coupon acceptance. Use the data to predict the likelihood of coupon acceptance, which could support more personalized and efficient targeting.
 
 ## Author
 
